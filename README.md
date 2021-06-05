@@ -6,7 +6,7 @@ La primera parte consta de una introduccion a python en general, lo cual puede s
 
 ## Contribuidores
 
-Se agradece y reconoce a todos los contribuidores. Puede encontrar una lista de los contribuidores actuales en la [pestaña de contribuidores](https://github.com/DangoMelon/curso_python_senamhi_2021/graphs/contributors).
+Se agradece y reconoce a todos los contribuidores. Puede encontrar una lista de los contribuidores actuales en la [pestaña de contribuidores](https://github.com/intro-python-clima/intro-python-clima/graphs/contributors).
 
 ## Creditos
 
