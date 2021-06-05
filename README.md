@@ -1,35 +1,13 @@
-# Curso Python SENAMHI 2021
+# Introducción a Python aplicado a ciencias del clima
 
-Contenido del curso de python orientado a geociencias dictado al SENAMHI.
+Esta colección busca ser una referencia base a todo aquel que quiera comenzar a usar python en ciencias del clima.
 
-## Usage
+La primera parte consta de una introduccion a python en general, lo cual puede ser aprovechado por el publico en general; sin embargo, el objetivo posterior es centrarse en herramientas que faciliten el manejo y procesamiento de datos climaticos u observacionales.
 
-### Building the book
+## Contribuidores
 
-If you'd like to develop on and build the Curso Python SENAMHI 2021 book, you should:
+Se agradece y reconoce a todos los contribuidores. Puede encontrar una lista de los contribuidores actuales en la [pestaña de contribuidores](https://github.com/DangoMelon/curso_python_senamhi_2021/graphs/contributors).
 
-- Clone this repository and run
-- Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
-- (Recommended) Remove the existing `Curso Python SENAMHI 2021/_build/` directory
-- Run `jupyter-book build Curso Python SENAMHI 2021/`
+## Creditos
 
-A fully-rendered HTML version of the book will be built in `Curso Python SENAMHI 2021/_build/html/`.
-
-### Hosting the book
-
-The html version of the book is hosted on the `gh-pages` branch of this repo. A GitHub actions workflow has been created that automatically builds and pushes the book to this branch on a push or pull request to main.
-
-If you wish to disable this automation, you may remove the GitHub actions workflow and build the book manually by:
-
-- Navigating to your local build; and running,
-- `ghp-import -n -p -f Curso Python SENAMHI 2021/_build/html`
-
-This will automatically push your build to the `gh-pages` branch. More information on this hosting process can be found [here](https://jupyterbook.org/publish/gh-pages.html#manually-host-your-book-with-github-pages).
-
-## Contributors
-
-We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/DangoMelon/curso_python_senamhi_2021/graphs/contributors).
-
-## Credits
-
-This project is created using the excellent open source [Jupyter Book project](https://jupyterbook.org/) and the [executablebooks/cookiecutter-jupyter-book template](https://github.com/executablebooks/cookiecutter-jupyter-book).
+Este contenido fue creado usando el excelente proyecto [Jupyter Book](https://jupyterbook.org/) de codigo libre junto a la [plantilla executablebooks/cookiecutter-jupyter-book](https://github.com/executablebooks/cookiecutter-jupyter-book).
