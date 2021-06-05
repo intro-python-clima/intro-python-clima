@@ -5,7 +5,7 @@
 
 #######################################################################################
 # Book settings
-title                       : Curso Python SENAMHI 2021  # The title of the book. Will be placed in the left navbar.
+title                       : Introducción a Python aplicado a ciencias del clima  # The title of the book. Will be placed in the left navbar.
 author                      : Gerardo A. Rivera Tello  # The author of the book
 copyright                   : "2021"  # Copyright year to be placed in the footer
 logo                        : images/logo.png  # A path to the book logo
@@ -22,7 +22,7 @@ latex:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/Curso-Python-SENAMHI-2021/Curso-Python-SENAMHI-2021  # Online location of your book
+  url: https://github.com/intro-python-clima/intro-python-clima  # Online location of your book
   branch: master  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
