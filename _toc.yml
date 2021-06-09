@@ -6,12 +6,12 @@ root: README
 parts:
 - caption: Información General
   chapters:
-  - file: content/info/intro
-  - file: content/info/online
-  - file: content/info/local
+  - file: info/intro
+  - file: info/online
+  - file: info/local
     sections:
-    - file: content/info/local/requisitos
-    - file: content/info/local/instrucciones
+    - file: info/local/requisitos
+    - file: info/local/instrucciones
 
 - caption: Parte1
   chapters:
