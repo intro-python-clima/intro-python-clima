@@ -1,0 +1,10 @@
+name: clima-dev
+channels:
+  - conda-forge
+dependencies:
+  - ghp-import
+  - matplotlib
+  - xarray
+  - pip
+  - pip:
+    - jupyter-book
