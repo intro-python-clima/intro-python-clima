@@ -1,8 +1,18 @@
 # Table of content
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
-- file: README
-- part: Parte 1
+format: jb-book
+root: README
+parts:
+- caption: Información General
   chapters:
-    - file: content/intro
-    - file: content/content
+  - file: content/info/intro
+  - file: content/info/online
+  - file: content/info/local
+    sections:
+    - file: content/info/local/requisitos
+    - file: content/info/local/instrucciones
+
+- caption: Parte1
+  chapters:
+  - file: content/content
