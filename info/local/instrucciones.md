@@ -1,16 +1,6 @@
-# Usando los notebooks
+# Cómo ejecutar los notebooks
 
-Para usar los notebooks de manera local primero deberá descargar o clonar el repositorio que contiene el código de este libro usando el siguiente comando en una terminal
-
-```bash
-git clone git@github.com:intro-python-clima/intro-python-clima.git && cd intro-python-clima
-```
-
-:::{note}
-Si desea usar `git` en Windows, deberá instalar git desde su [página oficial](https://git-scm.com/downloads) y luego ejecutar Git Bash desde donde podrá hacer uso del comando `git`.
-:::
-
-Al terminar la descarga, se encontrará dentro de la carpeta que contiene los archivos de este repositorio. Deberá instalar el entorno de trabajo especificado en el archivo `environment.yml` usando el comando `conda`
+Dentro del repositorio encontrará un archivo llamado `clima-env.yml` el cual describe el entorno de python a usar. Deberá instalar este entorno de trabajo usando el comando `conda` o `mamba`
 
 ```bash
 conda env create -f environment.yml
